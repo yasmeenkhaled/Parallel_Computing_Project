@@ -1,4 +1,4 @@
-# Parallel_Computing_Project
+# Parallel_Computing_Project with MPI
 ## Image Loading and Distribution o Master node should able to load an input image and distribute it across multiple MPI processes, algorithms that should be implemented
 o Gaussian Blur
 o Edge Detection
